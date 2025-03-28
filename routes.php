@@ -2,7 +2,7 @@
 /**
  * Creating a route code
  *
- * Filename:        route.php
+ * Filename:        routes.php
  * Location:        /
  * Project:         VD-SaaS-Vanilla-MVC-2025-S1
  * Date Created:    21/03/2025

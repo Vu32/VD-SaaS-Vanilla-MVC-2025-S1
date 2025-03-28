@@ -20,6 +20,7 @@ use Framework\Middleware\Authorise;
 
 class Router
 {
+    protected $routes = [];
     /**
      *
      * Creates a list or array of the registered route
